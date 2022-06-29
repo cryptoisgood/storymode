@@ -1,0 +1,4 @@
+service: () -> {
+    "isIdentityValidated": () -> (bool) query;
+    "validateIdentity": () -> ();
+}

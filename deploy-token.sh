@@ -1,0 +1,1 @@
+eval dfx canister install token --argument="'(\"Test Token Logo\", \"Test Token Name\", \"Test Token Symbol\", 3, 1000000, principal \"aewxo-zmyph-cu5ix-4txff-l4wzk-f4dar-qoctp-yss3k-orwmd-tjpxl-vae\", 0)'"
